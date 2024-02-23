@@ -12,5 +12,7 @@ Así que, ¿qué están esperando? Sumérjanse en este repositorio, desafíen su
 ¡Que la codificación esté contigo!
 
 Un abrazo, 
+
 #Diego Iván Oliveros Acosta
+
 CEO scalapp @scalapp.co 
