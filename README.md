@@ -16,4 +16,4 @@ Un abrazo,
 
 **Diego Iván Oliveros Acosta**
 CEO de **scalapp**
-[@scalapp.co]([http://scalapp.co/])
+[@scalapp.co](http://scalapp.co/)
