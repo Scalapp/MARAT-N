@@ -10,3 +10,7 @@ Es importante destacar que estos ejercicios están diseñados para ser resueltos
 Así que, ¿qué están esperando? Sumérjanse en este repositorio, desafíen sus límites y alcancen nuevas alturas en el mundo de la programación. ¡El viaje hacia la maestría comienza aquí!
 
 ¡Que la codificación esté contigo!
+
+Un abrazo, 
+#Diego Iván Oliveros Acosta
+CEO scalapp @scalapp.co 
