@@ -15,4 +15,5 @@ Así que, ¿qué están esperando? Sumérjanse en este repositorio, **desafíen 
 Un abrazo,
 
 **Diego Iván Oliveros Acosta**
-CEO de **scalapp** [@scalapp.co](https://github.com/scalapp.co)
+CEO de **scalapp**
+[@scalapp.co]([http://scalapp.co/])
